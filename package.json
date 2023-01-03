@@ -3,16 +3,18 @@
   "version": "1.0.2",
   "description": "React starter template",
   "dependencies": {
+    "gulp-rename": "^2.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "sass": "^1.57.1"
   },
   "plnkr": {
     "runtime": "system",
     "useHotReload": true
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "gulp && react-scripts start"
   },
   "browserslist": {
     "production": [
@@ -25,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
   }
 }
