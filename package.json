@@ -3,7 +3,6 @@
   "version": "1.0.2",
   "description": "React starter template",
   "dependencies": {
-    "bootstrap-icons": "^1.10.3",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "^5.0.1"
