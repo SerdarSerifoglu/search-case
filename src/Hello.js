@@ -1,5 +1,5 @@
 import React from "react";
-
+import TestIcon from "./icons/TestIcon";
 export default ({ name }) => (
   <>
     <h1>Hello {name}!</h1>
