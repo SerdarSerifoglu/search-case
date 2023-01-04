@@ -23,15 +23,22 @@ export const staticData = [
   {
     id: 4,
     name: "Eren Görgü",
-    policyNumber: "09576556767",
+    policyNumber: "45648900",
     phone: "+90 537 111 11 14",
     email: "erengorgu@hhhhotmail.com",
   },
   {
     id: 5,
     name: "Deniz Ünal",
-    policyNumber: "0013983891",
+    policyNumber: "777788",
     phone: "+90 537 111 11 15",
     email: "denizunal@yaaaandex.com",
+  },
+  {
+    id: 6,
+    name: "Ceren Öğünç",
+    policyNumber: "9760757",
+    phone: "+90 537 111 11 16",
+    email: "cerenog@yaaaandex.com",
   },
 ];
